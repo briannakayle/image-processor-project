@@ -1,6 +1,6 @@
-# CMPT 120 Yet Another Image Processer
+# Image Processer
 # Starter code for cmpt120imageManip.py
-# Author(s): Brayden Sue & Brianna Espena
+# Author(s):_______ & Brianna Espena
 # Date: December 7, 2020
 # Description: List of functions for calling in main code
 
