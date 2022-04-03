@@ -1,6 +1,6 @@
-# CMPT 120 Yet Another Image Processer
+# Image Processer
 # Starter code for main.py
-# Author(s): Brayden Sue & Brianna Espena
+# Author(s): _______ & Brianna Espena
 # Date: December 7, 2020
 # Description: Interactive image processer with multiple manipulation levels
 
